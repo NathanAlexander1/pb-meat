@@ -6,28 +6,28 @@ function About() {
     <h1>About Fleshtables</h1>
     <hr />
       <p>
-        In a world where plant-based food are increasingly dominating the
+        In a world where plant-based foods are increasingly dominating the
         market, it can be difficult to find a niche that has yet to be filled.
-        We did hours and hours of painstaking research, only to find that just
-        about every corner of the market has been saturated. Without looking too
+        Our team conducted hours and hours of painstaking research, only to find that just
+        about every corner of the market had been saturated. Without looking too
         hard, one can find dozens of plant-based options for just about every
-        kind of flesh-type food out there! Vegan veal, meatless mignon,
+        kind of creature out there! Vegan veal, meatless mignon,
         plant-based pork, chickpea-chicken...how are a couple of young
         entrepeneurs supposed to break into this hyper-competative
         marketplace?...Then it hit us!
       </p>
 
       <br />
-      <h3>FLESHTABLES!</h3>
+      <h3>~~FLESHTABLES!~~</h3>
 
       <br />
 
       <p>
-        We decided to go where no plant-based (or meat-based) food provider has
+        We decided to go where no plant-based (or meat-based) food provider had
         gone before...into the human market. We know that, whether or not
         anybody cares to admit it, everyone is at least a little curious how we
         taste. And due to understandably restrictive laws, you can't exactly go
-        out and try human flesh...so with that, fleshtables was born!
+        out and try human flesh...so with that, fleshtables was born! Now everybody can enjoy the rich flavor of humane human!
       </p>
 
       <br />
