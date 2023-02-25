@@ -12,6 +12,11 @@ code {
     monospace;
 }
 
+.twitterImg {
+  margin:2%;
+  width: 3%;
+}
+
 .navLink:hover{
   transform: scale(115%);
 }
